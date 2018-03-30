@@ -1,0 +1,12 @@
+[submodule "angular-frontend"]
+	path = angular-frontend
+	url = https://github.com/phek/arch-angular
+[submodule "java-client"]
+	path = java-client
+	url = https://github.com/phek/arch-client
+[submodule "node-mock-backend"]
+	path = node-mock-backend
+	url = https://github.com/phek/arch-node
+[submodule "java-backend"]
+	path = java-backend
+	url = https://github.com/Uddekudde/arch-javaEE.git
